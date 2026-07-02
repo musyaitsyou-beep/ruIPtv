@@ -253,7 +253,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
 #EXTINF:-1 tvg-id="sts-int" group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС int.
 #EXTGRP:Развлекательные
-http://178.134.1.158:8081/CTC/index.m3u8
+http://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="domashny" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/domashny.png",Домашний
 #EXTGRP:Развлекательные
@@ -375,10 +375,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 
-#EXTINF:-1 tvg-id="tnt-int-eu" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tnt-int-eu.png",ТНТ int.
-#EXTGRP:Развлекательные
-http://89.218.32.179:18000/play/a00s
-
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muztv.png",Муз ТВ
 #EXTGRP:Музыкальные
 http://185.71.81.6:8080/20/index.m3u8
@@ -417,7 +413,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/yu.png",Ю
 #EXTGRP:Развлекательные
-http://31.210.208.171:8080/u/index.m3u8?token=+W2MSER
+http://tchaikovsky.af-stream.com:8080/s/agvha3rn/yu-tv/video.m3u8
 
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/yu.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (Архив)
 #EXTGRP:Развлекательные
@@ -473,7 +469,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4
 #EXTGRP:Развлекательные
-http://46.32.176.50/tnt/index.m3u8
+http://194.152.35.17/tnt4/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4 HD
 #EXTGRP:Развлекательные
@@ -620,11 +616,6 @@ http://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="Новостные" tvg-logo="https://s3.spbtv.com/spbtv-world-production/3e288303f4c65de673b7_308x308c.png",РБК ТВ HD
 #EXTGRP:Новостные
 http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
-
-#EXTINF:-1 tvg-id="kuban-24" group-title="Новостные" tvg-logo="https://epg.iptvx.one/picons/kuban-24.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Кубань 24
-#EXTGRP:Новостные
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/domkino.png",Дом кино
 #EXTGRP:Кино
@@ -1540,7 +1531,7 @@ http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-tv-fresh.png",Bridge Фрэш
 #EXTGRP:Музыкальные
-http://188.191.186.79:81/udp/239.192.10.12:1234
+http://79.105.239.213:81/udp/239.4.10.166:2020
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-tv-etno.png",Bridge Этно
 #EXTGRP:Музыкальные
@@ -1691,11 +1682,11 @@ http://109.94.1.3:8080/132/mpegts
 
 #EXTINF:-1 tvg-id="familyjam" group-title="Детские",FamilyJam
 #EXTGRP:Детские
-https://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/familyjam/16/playlist.m3u8
+http://94.228.166.20:8000/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-id="familyjam" group-title="Детские",FamilyJam HD
 #EXTGRP:Детские
-http://94.228.166.20:8000/play/a05j/index.m3u8
+http://109.127.177.4:81/udp/225.33.53.208:5000
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/baby-time.png",Baby time
 #EXTGRP:Детские
@@ -1771,17 +1762,9 @@ http://45.132.87.69:8080/cartoon_network/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png",Cartoon Network HD
 #EXTGRP:Детские
-http://37.186.70.39:40/play/99/index.m3u8
-
-#EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/boomerang.png",Cartoonito
-#EXTGRP:Детские
-http://vipl.one/high/6j95s4drt3/480.m3u8
+http://176.118.197.101/Cartoon_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png",Nickelodeon
-#EXTGRP:Детские
-https://s70378.cdn.ngenix.net/nickelodeon/2/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png",Nickelodeon HD
 #EXTGRP:Детские
 http://stream8.cinerama.uz/1500/tracks-v1a2/mono.m3u8
 
@@ -1790,10 +1773,6 @@ http://stream8.cinerama.uz/1500/tracks-v1a2/mono.m3u8
 http://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nicktoons.png",Nicktoons
-#EXTGRP:Детские
-https://s70378.cdn.ngenix.net/nicktoons/2/index.m3u8
-
-#EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nicktoons.png",Nicktoons HD
 #EXTGRP:Детские
 http://stream8.cinerama.uz/1502/tracks-v2a1/mono.m3u8
 
