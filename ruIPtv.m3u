@@ -527,7 +527,7 @@ https://s70378.cdn.ngenix.net/rtvi/2/index.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/360-podmoskovie.png",360.ru
 #EXTGRP:Общие
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/vmeste-rf.png",Вместе-РФ
 #EXTGRP:Общие
@@ -641,17 +641,13 @@ http://31.210.208.171:8080/telecafe/index.m3u8?token=+W2MSER
 #EXTGRP:Общие
 http://46.32.176.50/poexali/index.m3u8
 
-#EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/poexali.png",Поехали! HD
-#EXTGRP:Общие
-http://79.105.239.213:81/udp/239.4.10.51:2020
-
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/pobeda.png",Победа
 #EXTGRP:Познавательные
 http://37.186.70.39:40/play/49/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/pobeda.png",Победа HD
 #EXTGRP:Познавательные
-http://cdn.dommir.top:9290/POBEDA_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8?token=965d58c1e5bde626854fe3754d546671
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/bober.png",Бобёр
 #EXTGRP:Познавательные
@@ -733,6 +729,10 @@ http://46.32.176.50/ViasatSportHD/index.m3u8
 #EXTGRP:Кино
 http://46.32.176.50/foxrussia/index.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/kineko.png",КИНЕКО HD
+#EXTGRP:Кино
+http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sapfir.png",Сапфир
 #EXTGRP:Кино
 http://46.32.176.50/foxlife/index.m3u8
@@ -755,7 +755,7 @@ http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 
 #EXTINF:-1 tvg-id="bolt-ru" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/bolt.png",Bolt
 #EXTGRP:Кино
-http://hls127.freeott.top:8080/Bolt/video.m3u8
+http://iptv4.mega.net.ru:8888/Bolt/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/star-family.png",Star Family
 #EXTGRP:Кино
@@ -841,17 +841,9 @@ https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTGRP:Кино
 https://cdn2.ntv.ru/th_hit/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/ntv-xit.png",НТВ Хит HD
-#EXTGRP:Кино
-https://tv.woobl.ru/tvh-hls/105cb3b532079b0fc6aced4c02601e80.m3u8
-
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/ntv-serial.png",НТВ Сериал
 #EXTGRP:Кино
 https://cdn2.ntv.ru/th_serial/mono.m3u8
-
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/ntv-serial.png",НТВ Сериал HD
-#EXTGRP:Кино
-https://tv.woobl.ru/tvh-hls/f7fd4f5262e1f0c8a4ab6e8c76749103.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png",Комедия
 #EXTGRP:Кино
@@ -889,10 +881,6 @@ http://37.186.70.39:40/play/66/index.m3u8
 #EXTGRP:Кино
 https://fs.uplink.kz/kinouzhas/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/kinouzhas.png",Киноужас HD
-#EXTGRP:Кино
-http://79.105.239.213:81/udp/239.4.10.47:2020
-
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/kinoseria.png",Киносерия 
 #EXTGRP:Кино
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
@@ -909,10 +897,6 @@ http://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTGRP:Кино
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png",Киносвидание HD
-#EXTGRP:Кино
-https://tv.woobl.ru/tvh-hls/9492b6fd49fe781d0605ef9260e369b5.m3u8
-
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/kinokomedia.png",Кинокомедия
 #EXTGRP:Кино
 http://46.32.176.50/kinokomedia/index.m3u8
@@ -921,17 +905,9 @@ http://46.32.176.50/kinokomedia/index.m3u8
 #EXTGRP:Кино
 https://stream1.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/kinoxit.png",Кинохит HD
-#EXTGRP:Кино
-http://46.32.176.50/kinoxit/index.m3u8
-
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png",Наше новое кино
 #EXTGRP:Кино
 http://185.46.16.239:8000/Nickelodeon
-
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png",Наше новое кино HD
-#EXTGRP:Кино
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/rodnoe-kino.png",Родное кино
 #EXTGRP:Кино
@@ -949,7 +925,7 @@ http://37.186.70.39:40/play/71/index.m3u8
 #EXTGRP:Кино
 http://46.32.176.50/MujskoeKinoHD/index.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/dorama.png" v,Дорама
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/dorama.png",Дорама
 #EXTGRP:Кино
 http://31.210.208.171:8080/dorama/index.m3u8?token=+W2MSER
 
@@ -1289,7 +1265,7 @@ https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные
 http://37.186.70.39:40/play/110/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zootv.png",Инсайт ТВ
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png",Инсайт ТВ
 #EXTGRP:Познавательные
 http://stream8.cinerama.uz/1416/index.m3u8
 
@@ -1391,7 +1367,7 @@ https://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/englishclub.png",English Club TV
 #EXTGRP:Познавательные
-http://217.11.177.57/streams/media/teatr_720x576/index.m3u8
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/animal-planet.png",Animal Planet
 #EXTGRP:Познавательные
@@ -1696,10 +1672,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTGRP:Детские
 http://v2.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:-1 group-title="Детские",Маша и медведь
-#EXTGRP:Детские
-http://fl1004.bozztv.com/ushba79/mono.m3u8
-
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/smaylik-tv.png",Смайл ТВ
 #EXTGRP:Детские
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
@@ -1738,7 +1710,7 @@ http://46.32.176.50/MatchArenaHD/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-arena.png",МАТЧ! Арена HD
 #EXTGRP:Спортивные
-http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+http://176.100.46.245:90/matcharena/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png",МАТЧ! Премьер
 #EXTGRP:Спортивные
@@ -1752,10 +1724,6 @@ http://195.201.243.254/stream8/index.m3u8
 #EXTGRP:Спортивные
 http://185.46.16.239:8000/Match_Nash_Sport
 
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-strana.png",МАТЧ! Страна HD
-#EXTGRP:Спортивные
-https://tv.woobl.ru/tvh-hls/04771202fd8fce30940972f86d81838a.m3u8
-
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://iptvx.one/picons/match-planeta.png",МАТЧ! Планета
 #EXTGRP:Спортивные
 http://37.186.70.39:40/play/83/index.m3u8
@@ -1766,7 +1734,7 @@ http://91.201.172.14:35002
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-football1.png",МАТЧ! Футбол 1 HD
 #EXTGRP:Спортивные
-http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+http://176.100.46.245:90/matchfootball1/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-football2.png",МАТЧ! Футбол 2
 #EXTGRP:Спортивные
@@ -1774,7 +1742,7 @@ http://37.186.70.39:40/play/82/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-football2.png",МАТЧ! Футбол 2 HD
 #EXTGRP:Спортивные
-http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+http://176.100.46.245:90/matchfootball2/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-football3.png",МАТЧ! Футбол 3
 #EXTGRP:Спортивные
