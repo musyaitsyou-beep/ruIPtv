@@ -783,7 +783,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/kino-24.png",Kino24
 #EXTGRP:Кино
-http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+http://venera.movify.tv/Kino24Ru/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино",Смотрим 100% Любовь
 #EXTGRP:Кино
@@ -1554,7 +1554,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 
 #EXTINF:-1 tvg-id="o_" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/o_.png",О!
 #EXTGRP:Детские
-http://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://37.186.70.39:40/play/100/index.m3u8
 
 #EXTINF:-1 tvg-id="mult" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/mult.png",Мульт
 #EXTGRP:Детские
@@ -1602,11 +1602,11 @@ http://fs.uplink.kz/multilandia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="multimania-lv" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/multimania-lv.png",Мультимания
 #EXTGRP:Детские
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+http://venera.movify.tv/MultimaniaRu/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="pingvin-lolo" group-title="Детские" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
 #EXTGRP:Детские
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+http://venera.movify.tv/PingvinRu/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/radost-moya.png",Радость моя
 #EXTGRP:Детские
