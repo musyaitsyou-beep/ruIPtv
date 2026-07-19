@@ -106,15 +106,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTGRP:Общие
 http://178.134.1.158:8081/5channel/index.m3u8
 
-#EXTINF:-1 tvg-id="kultura" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/kultura.png",Россия-К
+#EXTINF:-1 tvg-id="kultura" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/kultura.png",Россия-Культура
 #EXTGRP:Познавательные
 http://185.46.16.239:8000/Rossiya_K
 
-#EXTINF:-1 tvg-id="kultura" group-title="Познавательные" tvg-logo="https://iptvx.one/picons/kultura.png",Россия-К HD
+#EXTINF:-1 tvg-id="kultura" group-title="Познавательные" tvg-logo="https://iptvx.one/picons/kultura.png",Россия-Культура HD
 #EXTGRP:Познавательные
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="kultura-pl7" group-title="Познавательные" tvg-logo="https://iptvx.one/picons/kultura-pl7.png",Россия-К HD +7
+#EXTINF:-1 tvg-id="kultura-pl7" group-title="Познавательные" tvg-logo="https://iptvx.one/picons/kultura-pl7.png",Россия-Культура HD +7
 #EXTGRP:Познавательные
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 
@@ -744,7 +744,7 @@ http://46.32.176.50/foxlife/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sapfir.png",Сапфир HD
 #EXTGRP:Кино
-https://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/sapfir_hd/16/playlist.m3u8
+http://77.232.131.211/Sapfir/manifest.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sony.png",.red
 #EXTGRP:Кино
