@@ -1511,6 +1511,10 @@ http://158.101.222.193:88/georgia_play.php?id=mezzo
 #EXTGRP:Музыкальные
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/mtv-classic-us.png",MTV Classic
+#EXTGRP:Музыкальные
+http://206.212.244.63/117/index.m3u8
+
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/mtv-live-us.png",MTV Live
 #EXTGRP:Музыкальные
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
