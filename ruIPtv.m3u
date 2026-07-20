@@ -368,7 +368,7 @@ http://185.46.16.239:8000/TNT
 
 #EXTINF:-1 tvg-id="tnt" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tnt.png",ТНТ HD
 #EXTGRP:Развлекательные
-http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjEvdG50L2dwbV90bnQvc3RyZWFtcy5qc29u
+http://85.25.46.88:8000/play/31/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tnt-sd.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (Архив)
 #EXTGRP:Развлекательные
@@ -382,7 +382,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muztv.png",Муз ТВ
 #EXTGRP:Музыкальные
-http://185.71.81.6:8080/20/index.m3u8
+http://46.32.176.50/muztv/index.m3u8
 
 #EXTINF:-1 tvg-id="muztv" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muztv.png",Муз ТВ HD
 #EXTGRP:Музыкальные
@@ -658,9 +658,17 @@ http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8?token=965d58c1e5bde626854fe3754
 #EXTGRP:Познавательные
 http://46.32.176.50/bobertv/index.m3u8
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/bober.png",ЛАПКИ LIVE
+#EXTGRP:Познавательные
+http://fs.uplink.kz/lapki_live/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/russky-roman.png",Русский роман
 #EXTGRP:Кино
 http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/russky-roman.png",Русский роман HD
+#EXTGRP:Кино
+http://stream.mcquack.net/266/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/russky-bestseller.png",Русский бестселлер
 #EXTGRP:Кино
@@ -696,7 +704,7 @@ https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tv1000.png",viju TV1000 HD
 #EXTGRP:Кино
-https://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/110/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png",viju TV1000 русское
 #EXTGRP:Кино
@@ -712,7 +720,7 @@ https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png",viju TV1000 action HD
 #EXTGRP:Кино
-https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/100/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/vip-premiere.png",viju+ premiere
 #EXTGRP:Кино
@@ -836,11 +844,15 @@ http://iptv4.mega.net.ru:8888/nashe_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="nst" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/nst.png",Настоящее страшное телевидение
 #EXTGRP:Кино
-http://vod.tuva.ru/nst/index.m3u8
+http://46.32.176.50/nst/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 #EXTGRP:Кино
 https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино
+http://stream.mcquack.net/369/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/ntv-xit.png",НТВ Хит
 #EXTGRP:Кино
@@ -1033,6 +1045,14 @@ http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/fox.png",FX
 #EXTGRP:Кино
 http://37.186.70.39:40/play/61/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/fox.png",FX HD
+#EXTGRP:Кино
+http://stream.mcquack.net/266/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/fox.png",FX Life HD
+#EXTGRP:Кино
+http://stream.mcquack.net/129/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/flixsnip.png",FlixSnip
 #EXTGRP:Кино
@@ -1495,11 +1515,11 @@ http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhd
 #EXTGRP:Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/mezzo.png",Mezzo HD
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/mezzo.png",Mezzo
 #EXTGRP:Музыкальные
 http://158.101.222.193:88/georgia_play.php?id=mezzo
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/mezzo.png",Mezzo
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/mezzo.png",Mezzo HD
 #EXTGRP:Музыкальные
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 
@@ -1527,7 +1547,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 
 #EXTINF:-1 tvg-id="o_" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/o_.png",О!
 #EXTGRP:Детские
-http://37.186.70.39:40/play/100/index.m3u8
+http://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="mult" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/mult.png",Мульт
 #EXTGRP:Детские
@@ -1663,7 +1683,7 @@ http://45.132.87.69:8080/cartoon_network/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png",Cartoon Network HD
 #EXTGRP:Детские
-http://37.186.70.39:40/play/99/index.m3u8
+http://176.118.197.101/Cartoon_Network/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/boomerang.png",Cartoonito
 #EXTGRP:Детские
@@ -1675,7 +1695,7 @@ http://stream1.cinerama.uz/1500/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nick-jr.png",Nick Jr.
 #EXTGRP:Детские
-http://stream1.cinerama.uz/1501/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/220/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nicktoons.png",Nicktoons
 #EXTGRP:Детские
@@ -1809,9 +1829,13 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTGRP:Спортивные
 http://178.134.1.158:8081/eurosport/index.m3u8
 
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/eurosport1.png",Eurosport 1 HD
+#EXTGRP:Спортивные
+http://stream.mcquack.net/176/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/eurosport2.png",Eurosport 2
 #EXTGRP:Спортивные
-http://37.186.70.39:40/play/112/index.m3u8
+http://stream.mcquack.net/192/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Fast&FunBox
 #EXTGRP:Спортивные
