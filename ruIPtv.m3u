@@ -10,12 +10,12 @@ http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEu
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/pervy-sd.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (Архив)
 #EXTGRP:Общие
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/pervy-pl9.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал +9 (Архив)
 #EXTGRP:Общие
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R03_1TV_KAM/playlist.m3u8
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eurasia-kz.png",Первый канал Евразия
@@ -24,7 +24,7 @@ https://fs.uplink.kz/perviy_kanal_evrasia/tracks-v1a1/mono.ts.m3u8?token=onlinet
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rossia1.png",Россия-1
 #EXTGRP:Общие
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_BELG/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rossia1.png",Россия-1 HD
@@ -37,12 +37,12 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rossia1.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 (Архив)
 #EXTGRP:Общие
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-id="rossia1-pl9" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rossia1-pl9.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-1 +9 (Архив)
 #EXTGRP:Общие
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-tv.png",МАТЧ! ТВ
@@ -55,7 +55,7 @@ http://46.32.176.50/MatchTVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-tv.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МАТЧ! ТВ (Архив)
 #EXTGRP:Спортивные
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/ntv.png",НТВ
@@ -68,12 +68,12 @@ http://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/ntv.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (Архив)
 #EXTGRP:Общие
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="ntv-pl7" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/ntv-pl7.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ +7 (Архив)
 #EXTGRP:Общие
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/ntv-belarus.png",НТВ-Беларусь
@@ -120,12 +120,12 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/kultura.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-К (Архив)
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-id="kultura-pl7" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/kultura-pl7.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-К +7 (Архив)
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-logo="https://epg.iptvx.one/picons/rossia-24.png",Россия-24
@@ -138,7 +138,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24 (Архив)
 #EXTGRP:Новостные
-#EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/karusel.png",Карусель
