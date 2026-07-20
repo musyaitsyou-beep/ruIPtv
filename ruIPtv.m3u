@@ -770,6 +770,10 @@ http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTGRP:Кино
 http://iptv4.mega.net.ru:8888/Bolt/index.m3u8
 
+#EXTINF:-1 tvg-id="bolt-ru" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/bolt.png",Bolt HD
+#EXTGRP:Кино
+http://stream.mcquack.net/73/index.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/star-family.png",Star Family
 #EXTGRP:Кино
 http://iptv4.mega.net.ru:8888/Star_Family/index.m3u8
@@ -1057,6 +1061,10 @@ http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/flixsnip.png",FlixSnip
 #EXTGRP:Кино
 http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Христианские" tvg-logo="https://epg.iptvx.one/picons/soyuz.png",Союз
+#EXTGRP:Христианские
+http://185.46.16.239:8000/Soyuz
 
 #EXTINF:-1 group-title="Христианские" tvg-logo="https://epg.iptvx.one/picons/soyuz.png",Союз HD
 #EXTGRP:Христианские
