@@ -1232,7 +1232,7 @@ https://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-nature.png",viju Nature
 #EXTGRP:Познавательные
-http://109.70.186.82:9090/udp/239.185.1.7:1234
+http://fs.uplink.kz/viju_nature/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-nature.png",viju Nature HD
 #EXTGRP:Познавательные
@@ -1487,14 +1487,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTGRP:Музыкальные
 http://176.118.197.101/1HD/index.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/musicbox-ru.png",Russian MusicBox
-#EXTGRP:Музыкальные
-http://79.105.239.213:81/udp/239.4.10.78:2020
-
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/musicbox-gold.png",MusicBox Gold
-#EXTGRP:Музыкальные
-http://79.105.239.213:81/udp/239.4.10.127:2020
-
 #EXTINF:-1 group-title="Музыкальные",Radio m2o
 #EXTGRP:Музыкальные
 http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
@@ -1619,7 +1611,7 @@ https://stream1.cinerama.uz/1445/index.m3u8
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/da-vinci.png",Da Vinci
 #EXTGRP:Детские
-http://109.70.186.82:9090/udp/239.185.1.1:1234
+http://fs.uplink.kz/da_vinci/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/da-vinci.png",Da Vinci HD
 #EXTGRP:Детские
