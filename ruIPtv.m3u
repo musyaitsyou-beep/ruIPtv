@@ -178,7 +178,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/tvcentr.png",ТВ Центр
 #EXTGRP:Общие
-http://185.71.81.6:8080/10/index.m3u8
+http://31.210.208.171:8080/tvc/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/tvcentr.png",ТВ Центр HD
 #EXTGRP:Общие
@@ -236,7 +236,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/sts.png",СТС
 #EXTGRP:Развлекательные
-http://185.46.16.239:8000/STS
+http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="sts" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/sts.png",СТС HD
 #EXTGRP:Развлекательные
