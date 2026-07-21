@@ -1252,7 +1252,7 @@ https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/arsenaltv.png",Арсенал
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1414/tracks-v2a1/mono.m3u8
+https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/v-mire-zhivotnyx.png",В мире животных
 #EXTGRP:Познавательные
@@ -1264,7 +1264,7 @@ https://stream1.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/kosmichesky.png",Первый космический
 #EXTGRP:Познавательные
-https://stream1.cinerama.uz/1415/tracks-v2a1/mono.m3u8
+https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/prikluchenia-hd.png",Приключения
 #EXTGRP:Познавательные
@@ -1426,6 +1426,10 @@ https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTGRP:Музыкальные
 http://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-ruxit.png",Bridge Русский хит
+#EXTGRP:Музыкальные
+http://stream.mcquack.net/320/index.m3u8
+
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png",Bridge Hits
 #EXTGRP:Музыкальные
 http://109.248.236.51/bridge_hits/tracks-v1a1/mono.m3u8
@@ -1583,7 +1587,7 @@ https://stream1.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/capfantast.png",Капитан фантастика
 #EXTGRP:Детские
-https://stream1.cinerama.uz/1406/tracks-v2a1/mono.m3u8
+https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/malysh.png",СуперГерои
 #EXTGRP:Детские
@@ -1675,7 +1679,7 @@ http://stream.mcquack.net/220/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nicktoons.png",Nicktoons
 #EXTGRP:Детские
-http://stream1.cinerama.uz/1502/tracks-v2a1/mono.m3u8
+http://stream1.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/jimjam.png",JimJam
 #EXTGRP:Детские
