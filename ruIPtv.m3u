@@ -1572,15 +1572,7 @@ https://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/v_gostya
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/multimania.png",Мультиландия
 #EXTGRP:Детские
-http://fs.uplink.kz/multilandia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="multimania-lv" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/multimania-lv.png",Мультимания
-#EXTGRP:Детские
-http://venera.movify.tv/MultimaniaRu/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="pingvin-lolo" group-title="Детские" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png",Пингвин
-#EXTGRP:Детские
-http://venera.movify.tv/PingvinRu/tracks-v1a1/mono.ts.m3u8
+https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/radost-moya.png",Радость моя
 #EXTGRP:Детские
