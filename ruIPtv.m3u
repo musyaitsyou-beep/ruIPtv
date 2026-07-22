@@ -969,7 +969,7 @@ http://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ HD
 #EXTGRP:Кино
-http://194.152.35.17/kino-tv/index.m3u8
+http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/bollywood-hd.png",Bollywood
 #EXTGRP:Кино
@@ -1319,6 +1319,10 @@ https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTGRP:Познавательные
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/vkus.png",Вкус
+#EXTGRP:Познавательные
+http://178.134.1.158:8081/vkus/index.m3u8
+
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/rtg-tv.png",RTG TV
 #EXTGRP:Познавательные
 http://178.124.153.123:44400/rtg
@@ -1417,7 +1421,7 @@ https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/tnt-music.png",ТНТ Music HD
 #EXTGRP:Музыкальные
-https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/zhara.png",Жара
 #EXTGRP:Музыкальные
