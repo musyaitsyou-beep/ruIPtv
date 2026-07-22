@@ -1027,10 +1027,6 @@ http://176.118.197.101/START_AIR/index.m3u8
 #EXTGRP:Кино
 https://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/kinojam/16/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/kion-xit.png",KION Хит
-#EXTGRP:Кино
-http://94.228.166.20:8000/play/a05v/index.m3u8
-
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/mir-seriala.png",Мир сериала
 #EXTGRP:Кино
 http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
@@ -1305,7 +1301,7 @@ http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png",Тайны Галактики
 #EXTGRP:Познавательные
-http://94.228.166.20:8000/play/a05e/index.m3u8
+https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/uspex.png",Успех
 #EXTGRP:Познавательные
@@ -1558,6 +1554,10 @@ http://194.152.35.17/mama/index.m3u8
 #EXTGRP:Детские
 http://iptv4.mega.net.ru:8888/kinomult/index.m3u8
 
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/picons/detsky-mir.png",Детский мир
+#EXTGRP:Детские
+http://iptv.mega.net.ru:8888/Detskii_mir/index.m3u8
+
 #EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/picons/detsky-mir.png",Детский мир HD
 #EXTGRP:Детские
 http://46.32.176.50/detskiymir/index.m3u8
@@ -1783,10 +1783,6 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Udar
-#EXTGRP:Спортивные
-http://94.228.166.20:8000/play/a06v/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Udar HD
 #EXTGRP:Спортивные
 http://5.188.159.128:8070/udar/index.m3u8
 
