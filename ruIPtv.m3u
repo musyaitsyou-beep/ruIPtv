@@ -47,7 +47,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-tv.png",МАТЧ! ТВ
 #EXTGRP:Спортивные
-https://fs.uplink.kz/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://31.131.141.195:8000/play/1030/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-tv.png",МАТЧ! ТВ HD
 #EXTGRP:Спортивные
@@ -529,7 +529,7 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://iptvx.one/picons/rtvi.png",RTVi
 #EXTGRP:Общие
-http://tchaikovsky.af-stream.com:8080/s/agvha3rn/rtvi/video.m3u8
+https://shift03.isp.bg/RTVi/index.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/360-podmoskovie.png",360.ru
 #EXTGRP:Общие
@@ -701,11 +701,11 @@ https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tv1000.png",viju TV1000 HD
 #EXTGRP:Кино
-http://stream.mcquack.net/110/index.m3u8
+https://cache1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png",viju TV1000 русское
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+http://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png",viju TV1000 русское HD
 #EXTGRP:Кино
@@ -717,7 +717,7 @@ https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png",viju TV1000 action HD
 #EXTGRP:Кино
-http://stream.mcquack.net/100/index.m3u8
+https://cache1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/vip-premiere.png",viju+ premiere
 #EXTGRP:Кино
@@ -1688,7 +1688,7 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png",Nickelodeon
 #EXTGRP:Детские
-http://cache1.cinerama.uz/1500/tracks-v1a2/mono.m3u8
+http://cache1.cinerama.uz/1500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nick-jr.png",Nick Jr.
 #EXTGRP:Детские
@@ -1696,7 +1696,7 @@ http://stream.mcquack.net/220/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/nicktoons.png",Nicktoons
 #EXTGRP:Детские
-http://cache1.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+http://cache1.cinerama.uz/1502/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/match-arena.png",МАТЧ! Арена
 #EXTGRP:Спортивные
@@ -1854,14 +1854,10 @@ http://185.98.211.8:81/fightbox/index.m3u8?token=test&amp;21yo=0
 #EXTGRP:Спортивные
 https://cache1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/setanta-sports1.png",Setanta Sports 2
-#EXTGRP:Спортивные
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/setanta-sports2.png",Setanta Sports 2 HD
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/setanta-sports2.png",Setanta Sports 2
 #EXTGRP:Спортивные
 https://cache1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/qazsport.png",QazSport
 #EXTGRP:Спортивные
-http://195.201.243.254/cache10/index.m3u8
+http://fs.uplink.kz/qazsport_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
