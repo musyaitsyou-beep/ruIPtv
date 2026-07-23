@@ -503,9 +503,13 @@ http://iptv4.mega.net.ru:8888/Epic/index.m3u8
 #EXTGRP:Развлекательные
 https://cache1.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png",Калейдоскоп ТВ
+#EXTGRP:Развлекательные
+http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/index.m3u8
+
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png",КВН ТВ
 #EXTGRP:Развлекательные
-http://radio.tvs.by:8080/KVN-TV/index.m3u8
+http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/perec-int.png",Перец
 #EXTGRP:Развлекательные
@@ -687,6 +691,10 @@ http://194.152.35.17/cinema/index.m3u8
 #EXTGRP:Кино
 http://46.32.176.50/eurokino/index.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/eurokino.png",Еврокино HD
+#EXTGRP:Кино
+http://stream.mcquack.net/385/index.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/retro-tv.png",РЕТРО
 #EXTGRP:Кино
 http://176.118.197.101/Retro/index.m3u8
@@ -757,15 +765,27 @@ http://77.232.131.211/Sapfir/manifest.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sony.png",.red
 #EXTGRP:Кино
-http://158.101.222.193:88/georgia_play.php?id=red
+http://5.188.159.128:8070/RED/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sony.png",.red HD
+#EXTGRP:Кино
+http://stream.mcquack.net/69/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sony-turbo.png",.black
 #EXTGRP:Кино
 http://46.32.176.50/sonyturbo/index.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sony-turbo.png",.black HD
+#EXTGRP:Кино
+http://stream.mcquack.net/263/index.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sony-scifi.png",.sci-fi
 #EXTGRP:Кино
 http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/sony-scifi.png",.sci-fi HD
+#EXTGRP:Кино
+http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
 
 #EXTINF:-1 tvg-id="bolt-ru" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/bolt.png",Bolt
 #EXTGRP:Кино
@@ -805,7 +825,7 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinopokaz.png",Кинопоказ
 #EXTGRP:Кино
-https://cache1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+http://176.118.197.101/Kinopokaz/mono.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinopokaz.png",Кинопоказ HD
 #EXTGRP:Кино
@@ -1011,6 +1031,10 @@ http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTGRP:Кино
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/rus-hualiang-tv.png",Китай ТВ
+#EXTGRP:Кино
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/playlist.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/tvxxi.png",ТВ21
 #EXTGRP:Кино
 http://46.32.176.50/tv21/index.m3u8
@@ -1018,6 +1042,10 @@ http://46.32.176.50/tv21/index.m3u8
 #EXTINF:-1 tvg-id="Кино" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/amedia1.png",Amedia1
 #EXTGRP:Кино
 http://46.32.176.50/amedia1/index.m3u8
+
+#EXTINF:-1 tvg-id="Кино" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/amedia1.png",Amedia1 HD
+#EXTGRP:Кино
+http://stream.mcquack.net/117/index.m3u8
 
 #EXTINF:-1 tvg-id="Кино" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/amedia2.png",Amedia2
 #EXTGRP:Кино
@@ -1117,7 +1145,7 @@ http://fs.uplink.kz/avto24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/avto24.png",Авто24 HD
 #EXTGRP:Познавательные
-https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+http://stream.mcquack.net/78/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/domashnie-zhivotnye.png",Домашние животные
 #EXTGRP:Познавательные
@@ -1185,11 +1213,19 @@ http://46.32.176.50/jivayaplaneta/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/doktor.png",Доктор
 #EXTGRP:Познавательные
-http://45.11.139.43:8555/doctor/index.m3u8
+https://cache1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/doktor.png",Доктор HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/80/index.m3u8
 
 #EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/nauka-20.png",Наука
 #EXTGRP:Познавательные
-http://vod.tuva.ru/nauka2/index.m3u8
+http://46.32.176.50/nauka/index.m3u8
+
+#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/nauka-20.png",Наука HD
+#EXTGRP:Познавательные
+http://stream.mcquack.net/125/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/istoria.png",История
 #EXTGRP:Познавательные
@@ -1199,13 +1235,29 @@ http://185.46.16.239:8000/Istoriya
 #EXTGRP:Познавательные
 http://46.32.176.50/dikiy/index.m3u8
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/dikaya-rybalka-hd.png",Дикая рыбалка
+#EXTGRP:Познавательные
+http://cache1.cinerama.uz/1432/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/dikaya-rybalka-hd.png",Дикая рыбалка HD
 #EXTGRP:Познавательные
 http://stream.mcquack.net/275/index.m3u8
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/dikaya-oxota-hd.png",Дикая охота
+#EXTGRP:Познавательные
+http://cache1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/dikaya-oxota-hd.png",Дикая охота HD
 #EXTGRP:Познавательные
 http://stream.mcquack.net/274/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/big-planet.png",Big Planet
+#EXTGRP:Познавательные
+http://31.210.208.171:8080/big_planet/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/big-planet.png",Big Planet HD
+#EXTGRP:Познавательные
+http://46.32.176.50/bigplanet/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/365-dnej.png",365 дней
 #EXTGRP:Познавательные
@@ -1235,9 +1287,9 @@ http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTGRP:Познавательные
 https://cache1.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/big-planet.png",Big Planet
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-explore.png",Trace Sport Stars
 #EXTGRP:Познавательные
-http://46.32.176.50/bigplanet/index.m3u8
+https://cache1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-explore.png",viju Explore
 #EXTGRP:Познавательные
@@ -1249,7 +1301,7 @@ https://cache1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-history.png",viju History
 #EXTGRP:Познавательные
-http://radio.tvs.by:8088/HistoryHD/index.m3u8
+http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/viasat-history.png",viju History HD
 #EXTGRP:Познавательные
@@ -1269,7 +1321,7 @@ https://cache1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/v-mire-zhivotnyx.png",В мире животных
 #EXTGRP:Познавательные
-http://iptv4.mega.net.ru:8888/V_MIRE_GIVOTNIH_HD/index.m3u8
+https://cache1.cinerama.uz/1404/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/nasha-sibir.png",Наша Сибирь
 #EXTGRP:Познавательные
@@ -1321,7 +1373,7 @@ https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/uspex.png",Успех
 #EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=uspeh
+https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда+
 #EXTGRP:Познавательные
@@ -1355,6 +1407,18 @@ https://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTGRP:Познавательные
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer.png",Univer
+#EXTGRP:Познавательные
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/tv-brics.png",TV BRICS
+#EXTGRP:Познавательные
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer.png",Univer HD
+#EXTGRP:Познавательные
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/bolshaya-azia.png",Большая азия
 #EXTGRP:Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -1374,6 +1438,10 @@ https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/otkryty-mir.png",Открытый мир
 #EXTGRP:Познавательные
 http://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Неизвестная планета
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png",Наша тема
 #EXTGRP:Познавательные
@@ -1395,6 +1463,14 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTGRP:Познавательные
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Познавательные" ,РЖД ТВ
+#EXTGRP:Познавательные
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные" ,РЖД ТВ HD
+#EXTGRP:Познавательные
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Познавательные",Терра Инкогнита
 #EXTGRP:Познавательные
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
@@ -1410,6 +1486,18 @@ https://cache1.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/animal-planet.png",Animal Planet
 #EXTGRP:Познавательные
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/discovery.png",Discovery
+#EXTGRP:Познавательные
+https://cache1.cinerama.uz/1039/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/history.png",History
+#EXTGRP:Познавательные
+https://s70378.cdn.ngenix.net/history/2/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/history-2.png",History 2
+#EXTGRP:Познавательные
+https://s70378.cdn.ngenix.net/history_2/2/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
 #EXTGRP:Познавательные
