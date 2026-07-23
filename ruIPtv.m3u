@@ -499,6 +499,10 @@ https://fs.uplink.kz/tnt4/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTGRP:Развлекательные
 http://iptv4.mega.net.ru:8888/Epic/index.m3u8
 
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/voprosy-i-otvety.png",Вопросы и ответы
+#EXTGRP:Развлекательные
+https://cache1.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png",КВН ТВ
 #EXTGRP:Развлекательные
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
@@ -1114,10 +1118,6 @@ http://fs.uplink.kz/avto24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/avto24.png",Авто24 HD
 #EXTGRP:Познавательные
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/voprosy-i-otvety.png",Вопросы и ответы
-#EXTGRP:Познавательные
-https://cache1.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/domashnie-zhivotnye.png",Домашние животные
 #EXTGRP:Познавательные
