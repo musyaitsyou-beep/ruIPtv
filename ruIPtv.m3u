@@ -791,10 +791,6 @@ http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTGRP:Кино
 http://iptv4.mega.net.ru:8888/Bolt/index.m3u8
 
-#EXTINF:-1 tvg-id="bolt-ru" group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/bolt.png",Bolt HD
-#EXTGRP:Кино
-http://stream.mcquack.net/73/index.m3u8
-
 #EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/star-family.png",Star Family
 #EXTGRP:Кино
 http://iptv4.mega.net.ru:8888/Star_Family/index.m3u8
