@@ -1411,6 +1411,10 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTGRP:Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/travel-adventure.png",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/univer.png",Univer
 #EXTGRP:Познавательные
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
@@ -1515,13 +1519,9 @@ https://cache1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные
 http://46.32.176.50/NatGeoWildHD/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/travel-adventure.png",Travel+Adventure
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/travel-channel.png",Travel Channel
 #EXTGRP:Познавательные
-http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/travel-adventure.png",Travel+Adventure HD
-#EXTGRP:Познавательные
-http://77.232.131.211/TravelAdventureHD/index.m3u8
+http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_TRAVEL_CHANNEL/index.m3u8?clckid=d7df0133
 
 #EXTINF:-1 group-title="Релакс",Fireplace
 #EXTGRP:Релакс
