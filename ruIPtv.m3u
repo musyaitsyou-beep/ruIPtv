@@ -663,7 +663,7 @@ http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8?token=965d58c1e5bde626854fe3754
 #EXTGRP:Познавательные
 http://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/bober.png",ЛАПКИ LIVE
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/lapki-live.png",ЛАПКИ LIVE
 #EXTGRP:Познавательные
 http://fs.uplink.kz/lapki_live/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
